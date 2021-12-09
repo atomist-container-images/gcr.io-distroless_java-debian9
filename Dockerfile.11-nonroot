@@ -1,0 +1,2 @@
+# Tags: 11-nonroot
+FROM gcr.io/distroless/java-debian9:11-nonroot

@@ -1,0 +1,2 @@
+# Tags: 11-debug-nonroot
+FROM gcr.io/distroless/java-debian9:11-debug-nonroot
