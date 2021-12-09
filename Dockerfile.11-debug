@@ -1,2 +1,2 @@
-# Tags: 11-debug
+# Tags:  11-debug
 FROM gcr.io/distroless/java-debian9:11-debug

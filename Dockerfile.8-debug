@@ -1,3 +1,3 @@
-# Tags: 8-debug, debug
+# Tags:  8-debug, debug
 FROM gcr.io/distroless/java-debian9:8-debug
 FROM gcr.io/distroless/java-debian9:debug
